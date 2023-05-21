@@ -1,1 +1,1 @@
-# Automation_Practice_Using_POM
+Automated the website by using Selenium, TestNG, and Page Object Model.
